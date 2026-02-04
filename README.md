@@ -14,7 +14,7 @@ Software Development student at **Southern Alberta Institute of Technology (SAIT
 
 ### 🚀 Featured Project
 
-🚢 **ShipRate** — Professional ship evaluation app for maritime pilots  
+🚢 **ShipRate** — Professional ship evaluation app for maritime pilots in Brazil  
 - Currently used by **36 pilots** in production  
 - Built with Flutter & Firebase, developed with AI assistance (Claude)  
 - Features: ship search, rating system, PDF reports, MarineTraffic integration
