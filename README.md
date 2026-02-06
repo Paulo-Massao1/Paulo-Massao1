@@ -8,7 +8,7 @@ Software Development student at **Southern Alberta Institute of Technology (SAIT
 
 **Mobile & Web:** Flutter, Dart, Firebase, HTML, CSS, JavaScript  
 **Backend:** Python, Java, SQL  
-**Tools:** Git, GitHub, VS Code, IntelliJ
+**Tools:** Git, GitHub, VS Code and IntelliJ
 
 ---
 
