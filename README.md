@@ -1,23 +1,26 @@
 ## Hey, I'm Paulo 👋
-
 Software Development student at **Southern Alberta Institute of Technology (SAIT)**, currently in my second term. Seeking co-op opportunities for Spring/Summer 2026.
 
 ---
 
 ### 🛠️ Skills
-
 **Mobile & Web:** Flutter, Dart, Firebase, HTML, CSS, JavaScript  
-**Backend:** Python, Java, SQL  
-**Tools:** Git, GitHub, VS Code, IntelliJ
+**Backend:** Java, Spring Boot, Python, SQL  
+**Tools:** Git, GitHub, GitHub Actions, VS Code, IntelliJ
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-🚢 **ShipRate** — Professional ship evaluation app for maritime pilots in Brazil  
+🚢 **[ShipRate](https://github.com/Paulo-Massao1/ship-rate-project)** — Professional ship evaluation app for maritime pilots in Brazil  
 - Currently used by **36 pilots** in production  
 - Built with Flutter & Firebase, developed with AI assistance (Claude)  
 - Features: ship search, rating system, PDF reports, MarineTraffic integration
+
+📋 **[Task Management API](https://github.com/Paulo-Massao1/task-management-api)** — RESTful API built with Java and Spring Boot  
+- Full CRUD with input validation and error handling  
+- 13 automated tests (JUnit 5 + Mockito), CI/CD with GitHub Actions  
+- Swagger/OpenAPI documentation
 
 ---
 
