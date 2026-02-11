@@ -6,6 +6,7 @@ Software Development student at **Southern Alberta Institute of Technology (SAIT
 ### 🛠️ Skills
 **Mobile & Web:** Flutter, Dart, Firebase, HTML, CSS, JavaScript  
 **Backend:** Java, Spring Boot, Python, SQL  
+**Databases:** Firebase Firestore, H2 (SQL)  
 **Tools:** Git, GitHub, GitHub Actions, VS Code, IntelliJ
 
 ---
@@ -18,7 +19,7 @@ Software Development student at **Southern Alberta Institute of Technology (SAIT
 - Features: ship search, rating system, PDF reports, MarineTraffic integration
 
 📋 **[Task Management API](https://github.com/Paulo-Massao1/task-management-api)** — RESTful API built with Java and Spring Boot  
-- Full CRUD with input validation and error handling  
+- Full CRUD with input validation and error handling, using H2 SQL database  
 - 13 automated tests (JUnit 5 + Mockito), CI/CD with GitHub Actions  
 - Swagger/OpenAPI documentation
 
