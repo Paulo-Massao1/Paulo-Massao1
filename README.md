@@ -1,29 +1,28 @@
-## Hey, I'm Paulo 👋
-Software Development student at **Southern Alberta Institute of Technology (SAIT)**, currently in my second term. Seeking co-op opportunities for Spring/Summer 2026.
+Hey, I'm Paulo 👋
+Software Development student at Southern Alberta Institute of Technology (SAIT), currently in my second term. Seeking co-op opportunities for Spring/Summer 2026.
 
----
+🛠️ Skills
+AreaTechnologiesMobile & WebFlutter, Dart, Firebase, HTML, CSS, JavaScriptBackendJava, Spring Boot, Python, SQLToolsGit, GitHub, GitHub Actions, VS Code, IntelliJ
 
-### 🛠️ Skills
-**Mobile & Web:** Flutter, Dart, Firebase, HTML, CSS, JavaScript  
-**Backend:** Java, Spring Boot, Python, SQL  
-**Tools:** Git, GitHub, GitHub Actions, VS Code, IntelliJ
-
----
-
-### 🚀 Featured Projects
-
-🚢 ShipRate — Professional ship evaluation app for maritime pilots in Brazil
+🚀 Featured Projects
+🚢 ShipRate
+Professional ship evaluation app for maritime pilots in Brazil
 
 Currently used by 40 pilots in production
 Built with Flutter & Firebase, developed with AI assistance (Claude)
 Features: ship search, rating system, PDF reports, MarineTraffic integration
 Internationalization (i18n) with support for English and Portuguese
 
-📋 **[Task Management API]** — RESTful API built with Java and Spring Boot  
-- Full CRUD with input validation and error handling, using H2 SQL database  
-- 13 automated tests (JUnit 5 + Mockito), CI/CD with GitHub Actions  
-- Swagger/OpenAPI documentation
+📋 Task Management API
+RESTful API built with Java and Spring Boot
 
----
+Full CRUD with input validation and error handling, using H2 SQL database
+13 automated tests (JUnit 5 + Mockito), CI/CD with GitHub Actions
+Swagger/OpenAPI documentation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-massao-santos-07009a2a4/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-massao-santos-07009a2a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
