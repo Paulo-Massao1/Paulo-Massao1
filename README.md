@@ -19,7 +19,7 @@ Software Development student at **Southern Alberta Institute of Technology (SAIT
 #### 🚢 [ShipRate](https://github.com/Paulo-Massao1/ship-rate-project)
 Professional ship evaluation app for maritime pilots in Brazil
 
-- Currently used by **40 pilots** in production
+- Currently used by **50 pilots** in production
 - Built with Flutter & Firebase, developed with AI assistance (Claude)
 - Features: ship search, rating system, PDF reports, MarineTraffic integration
 - Internationalization (i18n) with support for English and Portuguese
