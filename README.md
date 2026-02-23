@@ -19,7 +19,7 @@ Software Development student at **Southern Alberta Institute of Technology (SAIT
 #### 🛡️ [Sentinel](https://github.com/Paulo-Massao1/sentinel-project)
 PWA that helps adults identify, document, and report signs of child abuse
 - Live at [sentinel-protect.vercel.app](https://sentinel-protect.vercel.app)
-- Built with React, TypeScript, Vite, Tailwind — developed using Claude as a coding tool
+- Built with React, TypeScript, Vite, Tailwind 
 - 100% client-side, zero data collection, works offline
 - i18n (EN/PT-BR), PDF report generation, country-specific reporting channels
 
