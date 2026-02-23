@@ -35,13 +35,6 @@ RESTful API built with Java and Spring Boot
 - Full CRUD with input validation and error handling, using H2 SQL database
 - 13 automated tests (JUnit 5 + Mockito), CI/CD with GitHub Actions
 - Swagger/OpenAPI documentation
-
----
-
-### 🤖 AI Disclosure
-
-I use Claude (Anthropic) as a development tool across my projects for code generation, refactoring, and iteration. All architectural decisions, content verification, and quality control are done by me.
-
 ---
 
 <p align="center">
