@@ -17,7 +17,7 @@ Software Development student at **Southern Alberta Institute of Technology (SAIT
 
 #### 🚢 [ShipRate Pro](https://github.com/Paulo-Massao1/ship-rate-project)
 Ship evaluation, depth recording, and ship crossing platform for maritime pilots in Brazil
-- **80+ active pilots** in production — available as PWA and native iOS on the App Store
+- **100+ active pilots** in production — available as PWA and native iOS on the App Store
 - Built with Flutter, Firebase (Auth, Firestore, Hosting, Cloud Functions, Storage, FCM)
 - **Ship Evaluation** — Rate vessels across 7 criteria, like system, PDF reports, MarineTraffic integration
 - **Depths - Records** — Real-time depth registry with photos, email and push notifications, WhatsApp sharing
